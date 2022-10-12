@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fm.douban.AppApplicationC6S2P10Tests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.599 s - in fm.douban.AppApplicationC6S2P10Tests
